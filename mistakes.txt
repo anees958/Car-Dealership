@@ -1,0 +1,12 @@
+when using dictionary
+
+make sure vairable name is same 
+
+teams=Team.objects.all()
+
+    data={
+        'teams':teams
+    }
+
+
+if u type team data will not render    
